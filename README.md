@@ -1,2 +1,1 @@
-# bc-class-July2019
-updated
+This repository is for projects assigned in the UPENN Boot Camp.

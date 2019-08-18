@@ -18,7 +18,7 @@ div.navContainer {
 
 .nav-link:hover {
 	 	background-color:#17a2b8;
-		color: #fff;
+		color: white;
     }
     
    
@@ -30,6 +30,10 @@ div.navContainer {
  .col-md-5 {
      background-color: #e4fcff;
  }  
+
+ .col-md-12 {
+    border-top: 1px solid #17a2b8;
+ }
    
    
      

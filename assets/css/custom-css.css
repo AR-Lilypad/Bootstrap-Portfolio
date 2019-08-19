@@ -1,5 +1,5 @@
 body {
-    background-image: url("../assets/images/straws2x.png");
+    background-image: url("../images/straws2x.png");
 }
 
 
@@ -19,7 +19,12 @@ body {
 
 .nav-link:hover {
 	 	background-color:#17a2b8;
-		color: white;
+		color: white !important;
+    }
+
+    .nav-link a:hover{
+		color: white !important;
+
     }
     
    

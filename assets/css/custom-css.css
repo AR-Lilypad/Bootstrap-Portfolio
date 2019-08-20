@@ -1,5 +1,5 @@
 body {
-    background-image: url("../images/straws2x.png");
+    background-image: url("../images/straws2x.png") !important;
 }
 .navContainer {
     margin: 0 auto;
